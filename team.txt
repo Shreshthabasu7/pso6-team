@@ -1,4 +1,3 @@
 Team members: shreshthabasu7 and kverma13
 Favorite programming language: TBD
-Team motto:  add, commit, push
-
+Team motto: We love CS193
